@@ -9,9 +9,9 @@
 Animal.create(name:'Turtle')
 
 
-Plastic.create(name:'Plastic Info 1', info:'of plastic litter in oceans comes from land-based sources. Most being single-use plastic', stats:80)
+Plastic.create(name:'Plastic Info 1', info:'marine animals are killed by plastic each year', stats:100,000)
 Plastic.create(name:'Plastic Info 2', info:'tons of plastic enter the oceans every year via rivers globally', stats:1.15)
-Plastic.create(name:'Plastic Info 3', info:'of the plastic that enters the ocean ends up on the seafloor', stats:94)
+Plastic.create(name:'Plastic Info 3', info:'turtles die each year from being tangled in plastic waste', stats:1000)
 
 
 
