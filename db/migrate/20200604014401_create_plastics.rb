@@ -3,6 +3,7 @@ class CreatePlastics < ActiveRecord::Migration[6.0]
     create_table :plastics do |t|
       t.string :name
       t.string :info
+      t.integer :stats
      
 
       t.timestamps

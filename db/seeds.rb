@@ -8,6 +8,13 @@
 
 Animal.create(name:'Turtle')
 
+
+Plastic.create(name:'Plastic Info 1', info:'of plastic litter in oceans comes from land-based sources. Most being single-use plastic', stats:80)
+Plastic.create(name:'Plastic Info 2', info:'tons of plastic enter the oceans every year via rivers globally', stats:1.15)
+Plastic.create(name:'Plastic Info 3', info:'of the plastic that enters the ocean ends up on the seafloor', stats:94)
+
+
+
 Plastic.create(name: 'Straws', info:
  '500 Million straws are used by americans daily.
   They are 1 of the top 10 items found in beach cleanups.
