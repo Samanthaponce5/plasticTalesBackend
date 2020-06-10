@@ -3,4 +3,6 @@ Rails.application.routes.draw do
   resources :plastics, only: [:index, :show]
   resources :users, only: [:index, :show, :create]
   resources :animals, only: [:index, :show]
+  resources :compare_plastics, only: [:index, :show]
+
 end

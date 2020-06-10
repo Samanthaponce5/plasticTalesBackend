@@ -1,0 +1,2 @@
+class ComparePlastic < ApplicationRecord
+end

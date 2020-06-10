@@ -1,2 +1,0 @@
-class Biodegradable < ApplicationRecord
-end
