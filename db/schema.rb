@@ -37,9 +37,8 @@ ActiveRecord::Schema.define(version: 2020_06_10_121754) do
 
   create_table "compare_plastics", force: :cascade do |t|
     t.string "plastic"
-    t.string "biodegradable"
-    t.string "info1"
-    t.string "info2"
+    t.string "plasticInfo"
+    t.string "alternativeInfo"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
