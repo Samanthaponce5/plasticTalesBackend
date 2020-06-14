@@ -5,7 +5,7 @@ class PlasticsController < ApplicationController
     end
   
     def show 
-        animal= Animal.find(params[:id])
-        render json: animal
+        plastic= Plastic.find(params[:id])
+        render json: plastic
     end
 end

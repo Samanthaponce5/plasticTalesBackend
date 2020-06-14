@@ -17,11 +17,18 @@ Plastic.create(name:'Plastic Info 4', info:'of the plastic produced in the U.S. 
 #  This can clog their digestive systems, causing them to choke.
 #  Plastic can also create pockets of air in their gut making them too bouyant so they can no longer dive for food.
 
-
+Plastic.create(name:'Plastic bag info1', info:'Sea turtles can mistake clear plastic bags for one of their favorite foods which is the jellyfish!')
 
 Plastic.create(name:'Plastic Info 5', info:'marine animals are killed by plastic each year', stats:100000)
 Plastic.create(name:'Plastic Info 6', info:'tons of plastic enter the oceans every year via rivers globally', stats:1.15)
 Plastic.create(name:'Plastic Info 7', info:'turtles die each year from being tangled in plastic waste', stats:1000)
+
+Plastic.create(name:'Plastic bag info2', info:'
+Eating plastic can clog their digestive systems, causing them to choke.')
+
+Plastic.create(name:'Plastic bag info3', info:'
+It can also create pockets of air in their gut making them too bouyant so they can no longer dive for food.')
+
 
 
 # Random plastic facts::::: On average per person approximately 185 lbs of plastic is thrown away per year.
