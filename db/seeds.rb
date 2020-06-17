@@ -19,9 +19,9 @@ Plastic.create(name:'Plastic Info 4', info:'of the plastic produced in the U.S. 
 
 Plastic.create(name:'Plastic bag info1', info:'Sea turtles can mistake clear plastic bags for one of their favorite foods which is the jellyfish!')
 
-Plastic.create(name:'Plastic Info 5', info:'marine animals are killed by plastic each year', stats:100000)
-Plastic.create(name:'Plastic Info 6', info:'tons of plastic enter the oceans every year via rivers globally', stats:1.15)
-Plastic.create(name:'Plastic Info 7', info:'turtles die each year from being tangled in plastic waste', stats:1000)
+Plastic.create(name:'PlasticInfo5', info:'marine animals are killed by plastic each year', stats:100000)
+Plastic.create(name:'PlasticInfo6', info:'pounds of plastic enter the oceans every year via rivers globally', stats:2300)
+Plastic.create(name:'PlasticInfo7', info:'turtles die each year from being tangled in plastic waste', stats:1000)
 
 Plastic.create(name:'Plastic bag info2', info:'
 Eating plastic can clog their digestive systems, causing them to choke.')
@@ -29,7 +29,14 @@ Eating plastic can clog their digestive systems, causing them to choke.')
 Plastic.create(name:'Plastic bag info3', info:'
 It can also create pockets of air in their gut making them too bouyant so they can no longer dive for food.')
 
+Plastic.create(name:'tell1', info:'Oceans are the source of food of 230,000 species')
+Plastic.create(name:'tell2', info:"The ocean produces 1/2 of the atmosphere's oxygen")
+Plastic.create(name:'tell3', info:'turtles die each year from being tangled in plastic waste')
 
+
+
+ user1 = User.create(name:'sam')
+Comment.create(user_id:user1.id, text:'dfghfdfgfd')
 
 # Random plastic facts::::: On average per person approximately 185 lbs of plastic is thrown away per year.
 # They eventually end up in the great garbage patch.
@@ -101,3 +108,23 @@ Reduce the amount of plastic you use/
 If there are alternatives use those instead/
 Reuse and Recycle!/
 Let your friends and family know about the effects of plastic')
+
+
+
+
+Site.create(weblink:'https://www.ecowatch.com/80-of-ocean-plastic-comes-from-land-based-sources-new-report-finds-1891173457.html#:~:text=80%25%20of%20Ocean%20Plastic%20Comes%20From%20Land,Based%20Sources%2C%20New%20Report%20Finds&text=The%20remainder%20comes%20from%20plastics,lost%20and%20discarded%20fishing%20gear.
+')
+Site.create(weblink:'https://www.seewinter.com/plastic-problem-inside-sea-turtles/
+')
+Site.create(weblink:'https://ourworldindata.org/plastic-pollution
+')
+Site.create(weblink:'https://www.cnbc.com/2020/03/09/sea-turtles-are-eating-ocean-plastic-because-it-smells-like-food-study.html
+')
+Site.create(weblink:'https://www.wwf.org.au/news/blogs/plastic-pollution-is-killing-sea-turtles-heres-how#gs.8lvyyw
+')
+Site.create(weblink:'https://www.worldwildlife.org/stories/what-do-sea-turtles-eat-unfortunately-plastic-bags
+')
+Site.create(weblink:'https://www.biologicaldiversity.org/campaigns/ocean_plastics/
+')
+Site.create(weblink:'https://www.nationalgeographic.com/environment/habitats/plastic-pollution/')
+
