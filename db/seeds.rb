@@ -27,11 +27,11 @@ Plastic.create(name:'Plastic bag info2', info:'
 Eating plastic can clog their digestive systems, causing them to choke.')
 
 Plastic.create(name:'Plastic bag info3', info:'
-It can also create pockets of air in their gut making them too bouyant so they can no longer dive for food.')
+It can also create pockets of air in their guts making them too bouyant so they can no longer dive for food.')
 
-Plastic.create(name:'tell1', info:'Oceans are the source of food of 230,000 species')
+Plastic.create(name:'tell1', info:'Oceans are the source of food for 230,000 species')
 Plastic.create(name:'tell2', info:"The ocean produces 1/2 of the atmosphere's oxygen")
-Plastic.create(name:'tell3', info:'turtles die each year from being tangled in plastic waste')
+Plastic.create(name:'tell3', info:"One person can make a differnce, be part of the solution in using less plastic causing the oceans pollution!")
 
 
 
