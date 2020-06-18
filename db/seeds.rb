@@ -38,12 +38,7 @@ Plastic.create(name:'tell3', info:"One person can make a differnce, be part of t
  user1 = User.create(name:'sam')
 Comment.create(user_id:user1.id, text:'dfghfdfgfd')
 
-# Random plastic facts::::: On average per person approximately 185 lbs of plastic is thrown away per year.
-# They eventually end up in the great garbage patch.
-# More than 10 million pounds of marine debris.
-# 1 million seabirds die every year from ingesting or entaglement in plastic litter
-# If we don't act now by 2050 there will be more plastic than fish
-# On average per person approximately 185 lbs of plastic is thrown away per year.
+
 
 
 
@@ -69,7 +64,6 @@ ComparePlastic.create(plastic: 'Straws', plasticInfo:
  Switch to reusalble/
  Use paper bags instead/
  Don't use and toss! Reuse plastic bags. It drastically cuts demand for new production/
- Did You Know?/
  Each reusable bag can eliminate thousands of plastic bags over a person's life/
  In Ireland there was a reduction of plastic bag consumption by 93.5% since they added a fee to consumers who use plastic bags")
 
@@ -77,7 +71,7 @@ ComparePlastic.create(plastic: 'Plastic bottles', plasticInfo: '
 Americans consume 8.6 billion gallons of bottled water anually/
  There are 3 billion pounds of plastic water bottles added to land fill each year/
 80% of water bottles are not recycled/
-Bottle caps are not recycled/
+Bottle caps are not recycled
 ',
  alternativeInfo:'
  Use reusable water bottles/
