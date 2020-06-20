@@ -31,7 +31,7 @@ It can also create pockets of air in their guts making them too bouyant so they 
 
 Plastic.create(name:'tell1', info:'Oceans are the source of food for 230,000 species')
 Plastic.create(name:'tell2', info:"The ocean produces 1/2 of the atmosphere's oxygen")
-Plastic.create(name:'tell3', info:"One person can make a differnce, be part of the solution in using less plastic causing the oceans pollution!")
+Plastic.create(name:'tell3', info:"One person can make a difference, be part of the solution in using less plastic causing the oceans pollution!")
 
 
 
