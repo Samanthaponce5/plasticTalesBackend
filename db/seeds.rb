@@ -61,7 +61,7 @@ ComparePlastic.create(plastic: 'Straws', plasticInfo:
   1 trillion plastic bags are produced worldwide yearly/
   3.5 tonnes is the net weight of plastic bags discarded in a year',
  alternativeInfo:"
- Switch to reusalble/
+ Switch to reusable/
  Use paper bags instead/
  Don't use and toss! Reuse plastic bags. It drastically cuts demand for new production/
  Each reusable bag can eliminate thousands of plastic bags over a person's life/
