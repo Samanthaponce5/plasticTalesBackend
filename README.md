@@ -4,7 +4,7 @@
 
 [Fronted](https://github.com/Samanthaponce5/thePlasticJourney-frontend)for this project
 
-#Getting Started:<br>
+# Getting Started:<br>
 ### `rails db:create`<br>
 ### `rails db:migrate`<br>
 ### `rails db:seed`<br>
